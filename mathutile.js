@@ -5,3 +5,4 @@ return x * x;
 export default function message() {
 console.log("🔔 Module mathUtils chargé !");
 }
+
